@@ -1,4 +1,14 @@
+package it.gothamcity.test;
+
 import java.util.Scanner;
+
+
+import it.gothamcity.bancadati.BancaDatiDetenuti;
+import it.gothamcity.bancadati.BancaDatiFascicoli;
+import it.gothamcity.bancadati.BancaDatiGuardie;
+import it.gothamcity.people.Detenuto;
+import it.gothamcity.people.Fascicolo;
+import it.gothamcity.people.Guardia;
 
 /**
  * Programma che gestisce la prigione di GothamCity
